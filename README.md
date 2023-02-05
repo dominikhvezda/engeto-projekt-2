@@ -1,4 +1,6 @@
-# engeto-projekt-2
-Můj druhý projekt pro Engeto akademii.
+# Hra Tic Tac Toe - piškvorky
 
-Hra Tic Tac Toe
+**Můj druhý projekt pro Engeto akademii.**
+
+1. Cílem této hry je umístit na plochu hrací kameny (křížek **X** , nebo kolečko **O**) a to horizontálně, vertikálně, nebo diagonálně.
+2. Hra je vytvořena pro dva hráče.
